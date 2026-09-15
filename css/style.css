@@ -187,7 +187,7 @@ a:focus-visible,button:focus-visible,summary:focus-visible{outline:2.5px solid v
 
 /* Responsive */
 @media(max-width:1020px){
-  .main-nav{display:none}.header-actions .btn-ghost{display:none}.nav-toggle{display:flex}
+  .main-nav{display:none}.header-actions{display:none}.nav-toggle{display:flex}
   .hero-grid{grid-template-columns:1fr}.hero-photo{order:-1;max-width:400px;margin:0 auto}.hero-badge{left:0;right:0}
   .services-grid{grid-template-columns:repeat(2,1fr)}
   .about-grid{grid-template-columns:1fr;gap:36px}.about-photos{order:-1;max-width:480px;margin:0 auto}
